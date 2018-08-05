@@ -1,4 +1,4 @@
 # MacOS-Wallpapers-via-Terminal
-Scrape an image file from a static website (currently, its the APOD by NASA) and set it as your main desktop's wallpaper.
-
+getpics.sh: It scrapes the webpage https://apod.nasa.gov/apod/astropix.html, which has a new image on it everyday, and sets it as the wallpaper of your main desktop.
+Random Wallpapers.sh: It selects a random image from the webpage https://www.cse.iitk.ac.in/users/namanv/pics.html, and sets it as the wallpaper of your main desktop.
 Note: This won't change the wallpaper of any other desktop that you have set up on your Mac.
